@@ -31,6 +31,6 @@ vercel --prod
 
 ## Legal
 
-FERELVIAN FINALFORM RETAIL (OPC) PRIVATE LIMITED  
-39/2475-B1 LR TOWERS, SOUTH JANATHA ROAD, Palarivattom, Ernakulam, Ernakulam- 682025, Kerala  
-+91 7403292723 | contact@ferelvian.com
+Ferelvian Finalform Retail PVT  
+Kochi, Kerala, India  
++91 79071 70680 | contact@ferelvian.com
